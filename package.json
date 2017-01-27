@@ -1,0 +1,22 @@
+{
+  "name": "25winter",
+  "version": "1.0.0",
+  "description": "starter files for Alexa apps",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seattleacademy/25winter.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/seattleacademy/25winter/issues"
+  },
+  "homepage": "https://github.com/seattleacademy/25winter#readme",
+  "dependencies": {
+    "alexa-app-server": "^2.3.1"
+  }
+}
